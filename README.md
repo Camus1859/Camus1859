@@ -46,18 +46,6 @@ I'm a software engineer with 4+ years of experience shipping web, mobile, and br
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Camus1859&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Anderson's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camus1859&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 💼 Recent Experience
 
 **Full-Stack Software Engineer @ Croissant** (2022–2025)  
