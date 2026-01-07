@@ -66,4 +66,4 @@ Former middle school science teacher who transitioned into software engineering.
 
 ---
 
-*Currently building and learning—portfolio site coming soon.*
+*Currently revamping my [portfolio](https://laventure.netlify.app/) and side projects — stay tuned.*
