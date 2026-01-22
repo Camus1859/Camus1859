@@ -1,5 +1,7 @@
 # Hi, I'm Anderson 👋
 
+*Currently revamping my [portfolio](https://laventure.netlify.app/) new work in progress.* . 🚧
+
 **Full-Stack Software Engineer**
 
 I'm a software engineer with 4+ years of experience shipping web, mobile, and browser-extension products end-to-end. My background spans fintech, edtech, and healthcare operations—giving me a strong foundation for cross-functional collaboration and building user-focused products.
