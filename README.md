@@ -1,7 +1,5 @@
 # Hi, I'm Anderson 👋
 
-*Currently revamping my [portfolio](https://laventure.netlify.app/) new work in progress.* . 🚧
-
 **Full-Stack Software Engineer**
 
 I'm a software engineer with 4+ years of experience shipping web, mobile, and browser-extension products end-to-end. My background spans fintech, edtech, and healthcare operations—giving me a strong foundation for cross-functional collaboration and building user-focused products.
@@ -30,6 +28,8 @@ I'm a software engineer with 4+ years of experience shipping web, mobile, and br
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white)
+
 
   **AI & ML**
 
@@ -46,6 +46,7 @@ I'm a software engineer with 4+ years of experience shipping web, mobile, and br
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
   **Tools & Testing**
 
@@ -73,7 +74,3 @@ EdTech · Chrome extension and web app for student research analytics
 ### 🎓 Background
 
 Former middle school science teacher who transitioned into software engineering. I bring the same patience, communication skills, and ability to break down complex concepts that made me effective in the classroom.
-
----
-
-*Currently revamping my [portfolio](https://laventure.netlify.app/) and side projects — stay tuned.*
